@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "JavaScript lernen",
+      "done": true
+    },
+    {
+      "id": 2,
+      "text": "WMC positiv abschließen",
+      "done": false
+    },
+    {
+      "text": "lalal",
+      "done": false,
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "wmc"
+  }
+}

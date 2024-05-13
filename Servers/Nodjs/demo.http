@@ -1,0 +1,14 @@
+GET localhost:3000/todos/2
+
+### Creat a new TODO
+
+POST localhost:3000/todos
+content-Type: application/json
+
+{
+  "text": "woas i ned",
+  "done": true
+}
+
+### Get all TODOs
+GET localhost:3000/todos
